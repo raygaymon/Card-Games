@@ -1,0 +1,1 @@
+print(f"Player {player_1.name} plays the {card_1[-1].rank} of {card_1[-1].suit} against Player {player_2.name}'s {card_2[-1].rank} of {card_2[-1].suit}")
